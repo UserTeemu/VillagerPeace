@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# VillagerPeace
+A simple client-side mod that prevents you from accidentally hitting villagers
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Use command `/villagerpeace on` or `/villagerpeace off` to toggle the protection on or off.
